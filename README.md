@@ -12,7 +12,7 @@ Results and graphs
 Google Colab
 
 https://colab.research.google.com/drive/1bIVl2YEIuWi2uuRypRjty-hy8amabVdA?usp=sharing
-
+PPT: https://drive.google.com/file/d/1oJgAdx1o__LxSln6luym1wgg8xKWfJ_c/view?usp=sharing
 Tools Used
 Python
 NumPy
